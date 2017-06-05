@@ -19,7 +19,7 @@ class Polygon:
 
 
 p1 = Polygon(4)
-p2 = Polygon(3)
+p2 = Polygon(4)
 
 p1.input_sides()
 p1.print_sides()
